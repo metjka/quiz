@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QUIZ", "QUIZ\QUIZ.csproj", "{C4BEFA23-B878-44BA-9783-76BD85FF670B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QUIZ_WPF", "QUIZ_WPF\QUIZ_WPF.csproj", "{509D371B-D083-4A91-813A-7C3E0A8574C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4BEFA23-B878-44BA-9783-76BD85FF670B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4BEFA23-B878-44BA-9783-76BD85FF670B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4BEFA23-B878-44BA-9783-76BD85FF670B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4BEFA23-B878-44BA-9783-76BD85FF670B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{509D371B-D083-4A91-813A-7C3E0A8574C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{509D371B-D083-4A91-813A-7C3E0A8574C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{509D371B-D083-4A91-813A-7C3E0A8574C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{509D371B-D083-4A91-813A-7C3E0A8574C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
