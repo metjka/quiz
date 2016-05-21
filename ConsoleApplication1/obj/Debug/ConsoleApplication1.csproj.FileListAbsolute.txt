@@ -1,0 +1,9 @@
+D:\Dropbox\Development\c#\QUIZ\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Dropbox\Development\c#\QUIZ\ConsoleApplication1\bin\Debug\ApplicationInsights.config
+D:\Dropbox\Development\c#\QUIZ\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Dropbox\Development\c#\QUIZ\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Dropbox\Development\c#\QUIZ\ConsoleApplication1\bin\Debug\QUIZ.dll
+D:\Dropbox\Development\c#\QUIZ\ConsoleApplication1\bin\Debug\QUIZ.pdb
+D:\Dropbox\Development\c#\QUIZ\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Dropbox\Development\c#\QUIZ\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Dropbox\Development\c#\QUIZ\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
