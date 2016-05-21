@@ -14,6 +14,10 @@ namespace QUIZ {
             return string.Format("You entered: {0}", value);
         }
 
+        public string HelloWorld() {
+            return "Hello World!";
+        }
+
         public CompositeType GetDataUsingDataContract(CompositeType composite) {
             if (composite == null) {
                 throw new ArgumentNullException("composite");

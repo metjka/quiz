@@ -14,6 +14,9 @@ namespace QUIZ {
         [OperationContract]
         string GetData(int value);
 
+        string HelloWorld();
+
+
         [OperationContract]
         CompositeType GetDataUsingDataContract(CompositeType composite);
 

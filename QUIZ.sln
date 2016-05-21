@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QUIZ", "QUIZ\QUIZ.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QUIZ_WPF", "QUIZ_WPF\QUIZ_WPF.csproj", "{509D371B-D083-4A91-813A-7C3E0A8574C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{F326F55E-84A9-40D6-9C60-C1975E93AD3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{509D371B-D083-4A91-813A-7C3E0A8574C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{509D371B-D083-4A91-813A-7C3E0A8574C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{509D371B-D083-4A91-813A-7C3E0A8574C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F326F55E-84A9-40D6-9C60-C1975E93AD3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F326F55E-84A9-40D6-9C60-C1975E93AD3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F326F55E-84A9-40D6-9C60-C1975E93AD3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F326F55E-84A9-40D6-9C60-C1975E93AD3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
